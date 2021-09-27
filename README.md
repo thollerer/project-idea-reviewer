@@ -1,4 +1,4 @@
-# cs48 s20 project-idea-reviewer
+# cs48 f21 project-idea-reviewer
 
 This app allows an instructor to set up the students
 in a course so that each one can:
